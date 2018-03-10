@@ -1,0 +1,10 @@
+h1,p{color: red;}
+.google_link{
+    color:blue;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    }
+#special_style{
+    text-align: center;
+    }
